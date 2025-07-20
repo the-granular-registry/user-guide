@@ -9,9 +9,6 @@
   * [Removing your company and all accounts from the Registry](registration-login-and-admin/removing-your-company-and-all-accounts-from-the-registry.md)
 * [Registry Dashboard](registry-dashboard.md)
 * [Registry Users](registry-users.md)
-* [Accounts](accounts/README.md)
-  * [Internal Accounts Subaccounts](accounts/internal-accounts-subaccounts.md)
-  * [Beneficiary Allocation Sub-Accounts](accounts/beneficiary-allocation-sub-accounts.md)
 * [Account Actions](account-actions/README.md)
   * [Issue PEC Application](account-actions/issue-pec-application.md)
   * [Issue Similar Application](account-actions/issue-similar-application.md)
@@ -29,3 +26,8 @@
 * [Glossary](glossary.md)
 * [Example User Flows](example-user-flows.md)
 * [Fee Structure](fee-structure.md)
+
+## accounts
+
+* [Internal Accounts Subaccounts](accounts/internal-accounts-subaccounts.md)
+* [Beneficiary Allocation Sub-Accounts](accounts/beneficiary-allocation-sub-accounts.md)
