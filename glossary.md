@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Glossary
 
 **CR** = Company Representative; a natural person legally authorized by a company to open, access and close its accounts and appoint, manage, and remove the authorized representatives of these accounts.

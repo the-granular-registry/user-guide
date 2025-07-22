@@ -1,5 +1,6 @@
 ---
 description: Overview of registry user types
+hidden: true
 ---
 
 # Registry Users

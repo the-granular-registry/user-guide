@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Registration, Login, and Admin
 
 Each company on the Registry has one or more **company representatives** (CR) that administer the company's users and accounts on the Registry. You must designate an initial company representative when you initially register your company. It is possible to change the company representative or add more company representatives after initial registration is complete.

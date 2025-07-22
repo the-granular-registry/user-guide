@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Fee Structure
 
 To sustain and enhance the PEC Registry over time, we charge the following fees. Changes to this fee structure are subject to the Governance process.
