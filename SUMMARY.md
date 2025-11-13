@@ -5,7 +5,7 @@
 * [GC Issuance](gc-issuance.md)
 * [GC Trading and Transfer](gc-trading-and-transfer.md)
 * [GC Retirement](gc-retirement.md)
-* [Standard Supply Service (SSS) Module](standard-supply-service-sss-module.md)
+* [Using Subaccounts to Allocate Retired GCs to Your Customers](standard-supply-service-sss-module.md)
 * [Registration, Login, and Admin](registration-login-and-admin/README.md)
   * [Registration](registration-login-and-admin/registration.md)
   * [User Identification](registration-login-and-admin/user-identification.md)
