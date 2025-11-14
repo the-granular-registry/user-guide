@@ -156,6 +156,6 @@ These Terms of Use are originally drafted in English. In the event of any discre
 
 ## The Granular Registry’s Privacy Policy
 
-The Granular Registry will use and maintain the information you provide in accordance with our Privacy Policy. This policy explains how The Granular Registry treats your personal information and protects your privacy when you use the Site. You agree to the use of your data in accordance with The Granular Registry’s privacy policies.
+The Granular Registry will use and maintain the information you provide in accordance with our [Privacy Policy](privacy-policy.md). This policy explains how The Granular Registry treats your personal information and protects your privacy when you use the Site. You agree to the use of your data in accordance with The Granular Registry’s privacy policies.
 
 &#x20;

@@ -30,6 +30,6 @@
 
 ## Terms & Conditions
 
-* [General Terms of Use](terms-and-conditions/general-terms-of-use.md)
 * [Terms of Use](terms-and-conditions/terms-of-use.md)
+* [General Terms of Use](terms-and-conditions/general-terms-of-use.md)
 * [Privacy Policy](terms-and-conditions/privacy-policy.md)
