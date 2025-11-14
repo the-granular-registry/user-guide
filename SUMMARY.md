@@ -17,7 +17,6 @@
 * [Billing](billing.md)
 * [Help Desk](help-desk.md)
 * [Glossary](glossary.md)
-* [Fee Structure](fee-structure.md)
 
 ## accounts
 
@@ -33,3 +32,4 @@
 * [Terms of Use](terms-and-conditions/terms-of-use.md)
 * [General Terms of Use](terms-and-conditions/general-terms-of-use.md)
 * [Privacy Policy](terms-and-conditions/privacy-policy.md)
+* [Fee Structure](terms-and-conditions/fee-structure.md)

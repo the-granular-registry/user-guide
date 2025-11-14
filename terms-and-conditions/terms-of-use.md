@@ -16,9 +16,9 @@ Unless otherwise defined in these Terms of Use or the context otherwise requires
 
 &#x20;In addition to these Terms of Use, your use of the Registry is subject to the following documents (collectively, the "Operative Documents"), each as may be modified or restated from time to time and posted on the Site:
 
-a)    The Fee Schedule (available at docs.granularregistry.com/fees);
+a)    The Fee Schedule (available at [docs.granularregistry.com/fee-structure](fee-structure.md));
 
-b)    The General Terms of Use (available at docs.granularregistry.com/general-terms); and
+b)    The General Terms of Use (available at [docs.granularregistry.com/general-terms-of-use](general-terms-of-use.md)); and
 
 c)     Any other rules, guidelines, operating procedures, or policies posted on the Site from time to time, including the Registry Standard and Procedures (available at docs.granularregistry.com/standards).
 
