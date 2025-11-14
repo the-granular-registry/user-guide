@@ -27,3 +27,7 @@
 ***
 
 * [Reporting Module Overview](reporting-module-overview.md)
+
+## Terms & Conditions
+
+* [Terms of Use](terms-and-conditions/terms-of-use.md)
